@@ -27,6 +27,10 @@ function Screen() {
           <source src={vid} />
         </video>
       </div>
+      <div className="aftervide">
+        <div className="left"></div>
+        <div className="right"></div>
+      </div>
     </div>
   );
 }
